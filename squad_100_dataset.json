@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?",
+    "gold_answer": "quantum",
+    "evidence": "Other important complexity classes include BPP, ZPP and RP, which are defined using probabilistic Turing machines; AC and NC, which are defined using Boolean circuits; and BQP and QMA, which are defined using quantum Turing machines. #P is an important complexity class of counting problems (not decision problems). Classes like IP and AM are defined using Interactive proof systems. ALL is the class of all decision problems."
+  },
+  {
+    "id": 2,
+    "question": "Who was the governor of California in 1895?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "Subsequently, Californios (dissatisfied with inequitable taxes and land laws) and pro-slavery southerners in the lightly populated \"Cow Counties\" of southern California attempted three times in the 1850s to achieve a separate statehood or territorial status separate from Northern California. The last attempt, the Pico Act of 1859, was passed by the California State Legislature and signed by the State governor John B. Weller. It was approved overwhelmingly by nearly 75% of voters in the proposed Territory of Colorado. This territory was to include all the counties up to the then much larger Tulare County (that included what is now Kings, most of Kern, and part of Inyo counties) and San Luis Obispo County. The proposal was sent to Washington, D.C."
+  },
+  {
+    "id": 3,
+    "question": "Persistent unemployment has what effect on long-term economic growth?",
+    "gold_answer": "negative",
+    "evidence": "2013 Economics Nobel prize winner Robert J. Shiller said that rising inequality in the United States and elsewhere is the most important problem. Increasing inequality harms economic growth. High and persistent unemployment, in which inequality increases, has a negative effect on subsequent long-run economic growth. Unemployment can harm growth not only because it is a waste of resources, but also because it generates redistributive pressures and subsequent distortions, drives people to poverty, constrains liquidity limiting labor mobility, and erodes self-esteem promoting social dislocation, unrest and conflict. Policies aiming at controlling unemployment and in particular at reducing its inequality-associated effects support economic growth."
+  },
+  {
+    "id": 4,
+    "question": "Something that is considered a non fundamental error is the belief that a force is required to maintain what?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "Philosophers in antiquity used the concept of force in the study of stationary and moving objects and simple machines, but thinkers such as Aristotle and Archimedes retained fundamental errors in understanding force. In part this was due to an incomplete understanding of the sometimes non-obvious force of friction, and a consequently inadequate view of the nature of natural motion. A fundamental error was the belief that a force is required to maintain motion, even at a constant velocity. Most of the previous misunderstandings about motion and force were eventually corrected by Galileo Galilei and Sir Isaac Newton. With his mathematical insight, Sir Isaac Newton formulated laws of motion that were not improved-on for nearly three hundred years."
+  },
+  {
+    "id": 5,
+    "question": "What did the US abandon? ",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "On August 15, 1971, the United States unilaterally pulled out of the Bretton Woods Accord. The US abandoned the Gold Exchange Standard whereby the value of the dollar had been pegged to the price of gold and all other currencies were pegged to the dollar, whose value was left to \"float\" (rise and fall according to market demand). Shortly thereafter, Britain followed, floating the pound sterling. The other industrialized nations followed suit with their respective currencies. Anticipating that currency values would fluctuate unpredictably for a time, the industrialized nations increased their reserves (by expanding their money supplies) in amounts far greater than before. The result was a depreciation of the dollar and other industrialized nations' currencies."
+  },
+  {
+    "id": 6,
+    "question": "What did Joseph Haas say in his email?",
+    "gold_answer": "\"Wise up or die.\"",
+    "evidence": "In cases where the criminalized behavior is pure speech, civil disobedience can consist simply of engaging in the forbidden speech. An example would be WBAI's broadcasting the track \"Filthy Words\" from a George Carlin comedy album, which eventually led to the 1978 Supreme Court case of FCC v. Pacifica Foundation. Threatening government officials is another classic way of expressing defiance toward the government and unwillingness to stand for its policies. For example, Joseph Haas was arrested for allegedly sending an email to the Lebanon, New Hampshire city councilors stating, \"Wise up or die.\""
+  },
+  {
+    "id": 7,
+    "question": "What must the adoption of laws which will have legal effect in the EU have?",
+    "gold_answer": "a proper legal basis",
+    "evidence": "The concept of legal certainty is recognised one of the general principles of European Union law by the European Court of Justice since the 1960s. It is an important general principle of international law and public law, which predates European Union law. As a general principle in European Union law it means that the law must be certain, in that it is clear and precise, and its legal implications foreseeable, specially when applied to financial obligations. The adoption of laws which will have legal effect in the European Union must have a proper legal basis. Legislation in member states which implements European Union law must be worded so that it is clearly understandable by those who are subject to the law."
+  },
+  {
+    "id": 8,
+    "question": "From where had the Norman Huguenots sailed in order to arrive at Fort Caroline?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "In 1564 a group of Norman Huguenots under the leadership of Jean Ribault established the small colony of Fort Caroline on the banks of the St. Johns River in what is today Jacksonville, Florida. The effort was the first at any permanent European settlement in the present-day continental United States, but survived only a short time. A September 1565 French naval attack against the new Spanish colony at St. Augustine failed when its ships were hit by a hurricane on their way to the Spanish encampment at Fort Matanzas. Hundreds of French soldiers were stranded and surrendered to the numerically inferior Spanish forces led by Pedro Menendez. Menendez proceeded to massacre the defenseless Huguenots, after which he wiped out the Fort Caroline garrison."
+  },
+  {
+    "id": 9,
+    "question": "Which University's College grants academic minors in 50 subject areas?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "The College of the University of Chicago grants Bachelor of Arts and Bachelor of Science degrees in 50 academic majors and 28 minors. The college's academics are divided into five divisions: the Biological Sciences Collegiate Division, the Physical Sciences Collegiate Division, the Social Sciences Collegiate Division, the Humanities Collegiate Division, and the New Collegiate Division. The first four are sections within their corresponding graduate divisions, while the New Collegiate Division administers interdisciplinary majors and studies which do not fit in one of the other four divisions."
+  },
+  {
+    "id": 10,
+    "question": "What implication can be derived for P and NP if P and co-NP are established to be unequal?",
+    "gold_answer": "P is not equal to NP",
+    "evidence": "Along the same lines, co-NP is the class containing the complement problems (i.e. problems with the yes/no answers reversed) of NP problems. It is believed that NP is not equal to co-NP; however, it has not yet been proven. It has been shown that if these two complexity classes are not equal then P is not equal to NP."
+  },
+  {
+    "id": 11,
+    "question": "What protestant religions made Northern European counties safe for Huguenot immigration?",
+    "gold_answer": "Lutheran and Reformed",
+    "evidence": "Around 1685, Huguenot refugees found a safe haven in the Lutheran and Reformed states in Germany and Scandinavia. Nearly 50,000 Huguenots established themselves in Germany, 20,000 of whom were welcomed in Brandenburg-Prussia, where they were granted special privileges (Edict of Potsdam) and churches in which to worship (such as the Church of St. Peter and St. Paul, Angermünde) by Frederick William, Elector of Brandenburg and Duke of Prussia. The Huguenots furnished two new regiments of his army: the Altpreußische Infantry Regiments No. 13 (Regiment on foot Varenne) and 15 (Regiment on foot Wylich)."
+  },
+  {
+    "id": 12,
+    "question": "What is located within this district?",
+    "gold_answer": "the oldest street in the United States of America",
+    "evidence": "Huguenot immigrants did not disperse or settle in different parts of the country, but rather, formed three societies or congregations; one in the city of New York, another 21 miles north of New York in a town which they named New Rochelle, and a third further upstate in New Paltz. The \"Huguenot Street Historic District\" in New Paltz has been designated a National Historic Landmark site and contains the oldest street in the United States of America. A small group of Huguenots also settled on the south shore of Staten Island along the New York Harbor, for which the current neighborhood of Huguenot was named."
+  },
+  {
+    "id": 13,
+    "question": "How has this debate been proven?",
+    "gold_answer": "This debate has proved difficult",
+    "evidence": "There is evidence that there have been significant changes in Amazon rainforest vegetation over the last 21,000 years through the Last Glacial Maximum (LGM) and subsequent deglaciation. Analyses of sediment deposits from Amazon basin paleolakes and from the Amazon Fan indicate that rainfall in the basin during the LGM was lower than for the present, and this was almost certainly associated with reduced moist tropical vegetation cover in the basin. There is debate, however, over how extensive this reduction was. Some scientists argue that the rainforest was reduced to small, isolated refugia separated by open forest and grassland; other scientists argue that the rainforest remained largely intact but extended less far to the north, south, and east than is seen today."
+  },
+  {
+    "id": 14,
+    "question": "Who lead the school back to leading research institution in 2oth century?",
+    "gold_answer": "James Bryant Conant",
+    "evidence": "James Bryant Conant (president, 1933–1953) reinvigorated creative scholarship to guarantee its preeminence among research institutions. He saw higher education as a vehicle of opportunity for the talented rather than an entitlement for the wealthy, so Conant devised programs to identify, recruit, and support talented youth. In 1943, he asked the faculty make a definitive statement about what general education ought to be, at the secondary as well as the college level. The resulting Report, published in 1945, was one of the most influential manifestos in the history of American education in the 20th century."
+  },
+  {
+    "id": 15,
+    "question": "What force acted on bodies to retard their velocity?",
+    "gold_answer": "friction",
+    "evidence": "The shortcomings of Aristotelian physics would not be fully corrected until the 17th century work of Galileo Galilei, who was influenced by the late Medieval idea that objects in forced motion carried an innate force of impetus. Galileo constructed an experiment in which stones and cannonballs were both rolled down an incline to disprove the Aristotelian theory of motion early in the 17th century. He showed that the bodies were accelerated by gravity to an extent that was independent of their mass and argued that objects retain their velocity unless acted on by a force, for example friction."
+  },
+  {
+    "id": 16,
+    "question": "The French and Indian War was the New World aspect of what European conflict?",
+    "gold_answer": "Seven Years' War",
+    "evidence": "The exodus of Huguenots from France created a brain drain, as many Huguenots had occupied important places in society. The kingdom did not fully recover for years. The French crown's refusal to allow non-Catholics to settle in New France may help to explain that colony's slow rate of population growth compared to that of the neighbouring British colonies, which opened settlement to religious dissenters. By the time of the French and Indian War (the North American front of the Seven Years' War), a sizeable population of Huguenot descent lived in the British colonies, and many participated in the British defeat of New France in 1759-60."
+  },
+  {
+    "id": 17,
+    "question": "What was used to create a new electromagnetic theory to reconcile the troubles with electromagnetic theory as it used to stand?",
+    "gold_answer": "quantum mechanics",
+    "evidence": "However, attempting to reconcile electromagnetic theory with two observations, the photoelectric effect, and the nonexistence of the ultraviolet catastrophe, proved troublesome. Through the work of leading theoretical physicists, a new theory of electromagnetism was developed using quantum mechanics. This final modification to electromagnetic theory ultimately led to quantum electrodynamics (or QED), which fully describes all electromagnetic phenomena as being mediated by wave–particles known as photons. In QED, photons are the fundamental exchange particle, which described all interactions relating to electromagnetism including the electromagnetic force.[Note 4]"
+  },
+  {
+    "id": 18,
+    "question": "How many protestants live in France today?",
+    "gold_answer": "one million",
+    "evidence": "Approximately one million Protestants in modern France represent some 2% of its population. Most are concentrated in Alsace in northeast France and the Cévennes mountain region in the south, who still regard themselves as Huguenots to this day.[citation needed] A diaspora of French Australians still considers itself Huguenot, even after centuries of exile. Long integrated into Australian society, it is encouraged by the Huguenot Society of Australia to embrace and conserve its cultural heritage, aided by the Society's genealogical research services."
+  },
+  {
+    "id": 19,
+    "question": "The Amazon region is home to how many species of insect?",
+    "gold_answer": "2.5 million",
+    "evidence": "The region is home to about 2.5 million insect species, tens of thousands of plants, and some 2,000 birds and mammals. To date, at least 40,000 plant species, 2,200 fishes, 1,294 birds, 427 mammals, 428 amphibians, and 378 reptiles have been scientifically classified in the region. One in five of all the bird species in the world live in the rainforests of the Amazon, and one in five of the fish species live in Amazonian rivers and streams. Scientists have described between 96,660 and 128,843 invertebrate species in Brazil alone."
+  },
+  {
+    "id": 20,
+    "question": "Who passed out educational leaflets in courtrooms during the Vietnam War?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "Courts have distinguished between two types of civil disobedience: \"Indirect civil disobedience involves violating a law which is not, itself, the object of protest, whereas direct civil disobedience involves protesting the existence of a particular law by breaking that law.\" During the Vietnam War, courts typically refused to excuse the perpetrators of illegal protests from punishment on the basis of their challenging the legality of the Vietnam War; the courts ruled it was a political question. The necessity defense has sometimes been used as a shadow defense by civil disobedients to deny guilt without denouncing their politically motivated acts, and to present their political beliefs in the courtroom. However, court cases such as U.S. v."
+  },
+  {
+    "id": 21,
+    "question": "When was the great plague of London?",
+    "gold_answer": "1665",
+    "evidence": "In England, in the absence of census figures, historians propose a range of preincident population figures from as high as 7 million to as low as 4 million in 1300, and a postincident population figure as low as 2 million. By the end of 1350, the Black Death subsided, but it never really died out in England. Over the next few hundred years, further outbreaks occurred in 1361–62, 1369, 1379–83, 1389–93, and throughout the first half of the 15th century. An outbreak in 1471 took as much as 10–15% of the population, while the death rate of the plague of 1479–80 could have been as high as 20%. The most general outbreaks in Tudor and Stuart England seem to have begun in 1498, 1535, 1543, 1563, 1589, 1603, 1625, and 1636, and ended with the Great Plague of London in 1665."
+  },
+  {
+    "id": 22,
+    "question": "In what year did OPEC pull out of the Bretton Woods Accord?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "On August 15, 1971, the United States unilaterally pulled out of the Bretton Woods Accord. The US abandoned the Gold Exchange Standard whereby the value of the dollar had been pegged to the price of gold and all other currencies were pegged to the dollar, whose value was left to \"float\" (rise and fall according to market demand). Shortly thereafter, Britain followed, floating the pound sterling. The other industrialized nations followed suit with their respective currencies. Anticipating that currency values would fluctuate unpredictably for a time, the industrialized nations increased their reserves (by expanding their money supplies) in amounts far greater than before. The result was a depreciation of the dollar and other industrialized nations' currencies."
+  },
+  {
+    "id": 23,
+    "question": "What was one of the Hanseatic cities?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "The study also found that there were two previously unknown but related clades (genetic branches) of the Y. pestis genome associated with medieval mass graves. These clades (which are thought to be extinct) were found to be ancestral to modern isolates of the modern Y. pestis strains Y. p. orientalis and Y. p. medievalis, suggesting the plague may have entered Europe in two waves. Surveys of plague pit remains in France and England indicate the first variant entered Europe through the port of Marseille around November 1347 and spread through France over the next two years, eventually reaching England in the spring of 1349, where it spread through the country in three epidemics. Surveys of plague pit remains from the Dutch town of Bergen op Zoom showed the Y."
+  },
+  {
+    "id": 24,
+    "question": "Where is much of the work of the Scottish Parliament done?",
+    "gold_answer": "committee",
+    "evidence": "Much of the work of the Scottish Parliament is done in committee. The role of committees is stronger in the Scottish Parliament than in other parliamentary systems, partly as a means of strengthening the role of backbenchers in their scrutiny of the government and partly to compensate for the fact that there is no revising chamber. The principal role of committees in the Scottish Parliament is to take evidence from witnesses, conduct inquiries and scrutinise legislation. Committee meetings take place on Tuesday, Wednesday and Thursday morning when Parliament is sitting. Committees can also meet at other locations throughout Scotland."
+  },
+  {
+    "id": 25,
+    "question": "How was the Dutch name for the Rhine originally spelled? ",
+    "gold_answer": "Rhijn",
+    "evidence": "The variant forms of the name of the Rhine in modern languages are all derived from the Gaulish name Rēnos, which was adapted in Roman-era geography (1st century BC) as Greek Ῥῆνος (Rhēnos), Latin Rhenus.[note 3] The spelling with Rh- in English Rhine as well as in German Rhein and French Rhin is due to the influence of Greek orthography, while the vocalisation -i- is due to the Proto-Germanic adoption of the Gaulish name as *Rīnaz, via Old Frankish giving Old English Rín, Old High German Rīn, Dutch Rijn (formerly also spelled Rhijn)). The diphthong in modern German Rhein (also adopted in Romansh Rein, Rain) is a Central German development of the early modern period, the Alemannic name Rī(n) retaining the older vocalism,[note 4] as does Ripuarian Rhing, while Palatine has diphthongized Rhe..."
+  },
+  {
+    "id": 26,
+    "question": "Where does the Rhine river's measurement begin?",
+    "gold_answer": "Old Rhine Bridge at Constance",
+    "evidence": "The length of the Rhine is conventionally measured in \"Rhine-kilometers\" (Rheinkilometer), a scale introduced in 1939 which runs from the Old Rhine Bridge at Constance (0 km) to Hoek van Holland (1036.20 km). The river length is significantly shortened from the river's natural course due to number of canalisation projects completed in the 19th and 20th century.[note 7] The \"total length of the Rhine\", to the inclusion of Lake Constance and the Alpine Rhine is more difficult to measure objectively; it was cited as 1,232 kilometres (766 miles) by the Dutch Rijkswaterstaat in 2010.[note 1]"
+  },
+  {
+    "id": 27,
+    "question": "According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",
+    "gold_answer": "reduces",
+    "evidence": "Many complexity classes are defined using the concept of a reduction. A reduction is a transformation of one problem into another problem. It captures the informal notion of a problem being at least as difficult as another problem. For instance, if a problem X can be solved using an algorithm for Y, X is no more difficult than Y, and we say that X reduces to Y. There are many different types of reductions, based on the method of reduction, such as Cook reductions, Karp reductions and Levin reductions, and the bound on the complexity of reductions, such as polynomial-time reductions or log-space reductions."
+  },
+  {
+    "id": 28,
+    "question": "Telnet was sold to ",
+    "gold_answer": "Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE",
+    "evidence": "Telenet was the first FCC-licensed public data network in the United States. It was founded by former ARPA IPTO director Larry Roberts as a means of making ARPANET technology public. He had tried to interest AT&T in buying the technology, but the monopoly's reaction was that this was incompatible with their future. Bolt, Beranack and Newman (BBN) provided the financing. It initially used ARPANET technology but changed the host interface to X.25 and the terminal interface to X.29. Telenet designed these protocols and helped standardize them in the CCITT. Telenet was incorporated in 1973 and started operations in 1975. It went public in 1979 and was then sold to GTE."
+  },
+  {
+    "id": 29,
+    "question": "What was Apple Talk ",
+    "gold_answer": "a proprietary suite of networking protocols developed by Apple Inc. in 1985",
+    "evidence": "AppleTalk was a proprietary suite of networking protocols developed by Apple Inc. in 1985 for Apple Macintosh computers. It was the primary protocol used by Apple devices through the 1980s and 90s. AppleTalk included features that allowed local area networks to be established ad hoc without the requirement for a centralized router or server. The AppleTalk system automatically assigned addresses, updated the distributed namespace, and configured any required inter-network routing. It was a plug-n-play system."
+  },
+  {
+    "id": 30,
+    "question": "How many counties initially made up the definition of southern California?",
+    "gold_answer": "seven",
+    "evidence": "In 1900, the Los Angeles Times defined southern California as including \"the seven counties of Los Angeles, San Bernardino, Orange, Riverside, San Diego, Ventura and Santa Barbara.\" In 1999, the Times added a newer county—Imperial—to that list."
+  },
+  {
+    "id": 31,
+    "question": "Which study suggests that previous estimates were overstated?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "Another example of scientific research which suggests that previous estimates by the IPCC, far from overstating dangers and risks, have actually understated them is a study on projected rises in sea levels. When the researchers' analysis was \"applied to the possible scenarios outlined by the Intergovernmental Panel on Climate Change (IPCC), the researchers found that in 2100 sea levels would be 0.5–1.4 m [50–140 cm] above 1990 levels. These values are much greater than the 9–88 cm as projected by the IPCC itself in its Third Assessment Report, published in 2001\". This may have been due, in part, to the expanding human understanding of climate."
+  },
+  {
+    "id": 32,
+    "question": "What kind of area do the genus Beroe juveniles live in that's different than their parents?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "Development of the fertilized eggs is direct, in other words there is no distinctive larval form, and juveniles of all groups generally resemble miniature cydippid adults. In the genus Beroe the juveniles, like the adults, lack tentacles and tentacle sheaths. In most species the juveniles gradually develop the body forms of their parents. In some groups, such as the flat, bottom-dwelling platyctenids, the juveniles behave more like true larvae, as they live among the plankton and thus occupy a different ecological niche from their parents and attain the adult form by a more radical metamorphosis, after dropping to the sea-floor."
+  },
+  {
+    "id": 33,
+    "question": "Who did Alexander I marry?",
+    "gold_answer": "Sybilla of Normandy",
+    "evidence": "Normans came into Scotland, building castles and founding noble families who would provide some future kings, such as Robert the Bruce, as well as founding a considerable number of the Scottish clans. King David I of Scotland, whose elder brother Alexander I had married Sybilla of Normandy, was instrumental in introducing Normans and Norman culture to Scotland, part of the process some scholars call the \"Davidian Revolution\". Having spent time at the court of Henry I of England (married to David's sister Maud of Scotland), and needing them to wrestle the kingdom from his half-brother Máel Coluim mac Alaxandair, David had to reward many with lands. The process was continued under David's successors, most intensely of all under William the Lion."
+  },
+  {
+    "id": 34,
+    "question": "What populations occupied the foreign territory between the modern Baden and Württemberg?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "From the death of Augustus in AD 14 until after AD 70, Rome accepted as her Germanic frontier the water-boundary of the Rhine and upper Danube. Beyond these rivers she held only the fertile plain of Frankfurt, opposite the Roman border fortress of Moguntiacum (Mainz), the southernmost slopes of the Black Forest and a few scattered bridge-heads. The northern section of this frontier, where the Rhine is deep and broad, remained the Roman boundary until the empire fell. The southern part was different. The upper Rhine and upper Danube are easily crossed. The frontier which they form is inconveniently long, enclosing an acute-angled wedge of foreign territory between the modern Baden and Württemberg."
+  },
+  {
+    "id": 35,
+    "question": "What is the hottest temperature record for Fresno?",
+    "gold_answer": "115 °F",
+    "evidence": "The official record high temperature for Fresno is 115 °F (46.1 °C), set on July 8, 1905, while the official record low is 17 °F (−8 °C), set on January 6, 1913. The average windows for 100 °F (37.8 °C)+, 90 °F (32.2 °C)+, and freezing temperatures are June 1 thru September 13, April 26 thru October 9, and December 10 thru January 28, respectively, and no freeze occurred between in the 1983/1984 season. Annual rainfall has ranged from 23.57 inches (598.7 mm) in the “rain year” from July 1982 to June 1983 down to 4.43 inches (112.5 mm) from July 1933 to June 1934. The most rainfall in one month was 9.54 inches (242.3 mm) in November 1885 and the most rainfall in 24 hours 3.55 inches (90.2 mm) on November 18, 1885. Measurable precipitation falls on an average of 48 days annually."
+  },
+  {
+    "id": 36,
+    "question": "What percentage of electricity was made by steam turbine in the 1990s?",
+    "gold_answer": "90",
+    "evidence": "The main use for steam turbines is in electricity generation (in the 1990s about 90% of the world's electric production was by use of steam turbines) however the recent widespread application of large gas turbine units and typical combined cycle power plants has resulted in reduction of this percentage to the 80% regime for steam turbines. In electricity production, the high speed of turbine rotation matches well with the speed of modern electric generators, which are typically direct connected to their driving turbines. In marine service, (pioneered on the Turbinia), steam turbines with reduction gearing (although the Turbinia has direct turbines to propellers with no reduction gearbox) dominated large ship propulsion throughout the late 20th century, being more efficient (and requiring f..."
+  },
+  {
+    "id": 37,
+    "question": "What treaty is the Social Chapter not a chapter of?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "The Social Chapter is a chapter of the 1997 Treaty of Amsterdam covering social policy issues in European Union law. The basis for the Social Chapter was developed in 1989 by the \"social partners\" representatives, namely UNICE, the employers' confederation, the European Trade Union Confederation (ETUC) and CEEP, the European Centre of Public Enterprises. A toned down version was adopted as the Social Charter at the 1989 Strasbourg European Council. The Social Charter declares 30 general principles, including on fair remuneration of employment, health and safety at work, rights of disabled and elderly, the rights of workers, on vocational training and improvements of living conditions."
+  },
+  {
+    "id": 38,
+    "question": " Where did Maududi's books not place Islam?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "Sayyid Abul Ala Maududi was an important early twentieth-century figure in the Islamic revival in India, and then after independence from Britain, in Pakistan. Trained as a lawyer he chose the profession of journalism, and wrote about contemporary issues and most importantly about Islam and Islamic law. Maududi founded the Jamaat-e-Islami party in 1941 and remained its leader until 1972. However, Maududi had much more impact through his writing than through his political organising. His extremely influential books (translated into many languages) placed Islam in a modern context, and influenced not only conservative ulema but liberal modernizer Islamists such as al-Faruqi, whose \"Islamization of Knowledge\" carried forward some of Maududi's key principles."
+  },
+  {
+    "id": 39,
+    "question": "What created a centralized router or server?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "AppleTalk was a proprietary suite of networking protocols developed by Apple Inc. in 1985 for Apple Macintosh computers. It was the primary protocol used by Apple devices through the 1980s and 90s. AppleTalk included features that allowed local area networks to be established ad hoc without the requirement for a centralized router or server. The AppleTalk system automatically assigned addresses, updated the distributed namespace, and configured any required inter-network routing. It was a plug-n-play system."
+  },
+  {
+    "id": 40,
+    "question": "What are some existing facilities?",
+    "gold_answer": "electrical, water, sewage, phone, and cable facilities",
+    "evidence": "Before the foundation can be dug, contractors are typically required to verify and have existing utility lines marked, either by the utilities themselves or through a company specializing in such services. This lessens the likelihood of damage to the existing electrical, water, sewage, phone, and cable facilities, which could cause outages and potentially hazardous situations. During the construction of a building, the municipal building inspector inspects the building periodically to ensure that the construction adheres to the approved plans and the local building code. Once construction is complete and a final inspection has been passed, an occupancy permit may be issued."
+  },
+  {
+    "id": 41,
+    "question": "What part of the Rhine flows through North Rhine-Westphalia?",
+    "gold_answer": "Lower Rhine",
+    "evidence": "The Lower Rhine flows through North Rhine-Westphalia. Its banks are usually heavily populated and industrialized, in particular the agglomerations Cologne, Düsseldorf and Ruhr area. Here the Rhine flows through the largest conurbation in Germany, the Rhine-Ruhr region. One of the most important cities in this region is Duisburg with the largest river port in Europe (Duisport). The region downstream of Duisburg is more agricultural. In Wesel, 30 km downstream of Duisburg, is located the western end of the second east-west shipping route, the Wesel-Datteln Canal, which runs parallel to the Lippe. Between Emmerich and Cleves the Emmerich Rhine Bridge, the longest suspension bridge in Germany, crosses the 400 m wide river."
+  },
+  {
+    "id": 42,
+    "question": "How did Celeron handle meeting with New Briton?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "When Céloron's expedition arrived at Logstown, the Native Americans in the area informed Céloron that they owned the Ohio Country and that they would trade with the British regardless of the French. Céloron continued south until his expedition reached the confluence of the Ohio and the Miami rivers, which lay just south of the village of Pickawillany, the home of the Miami chief known as \"Old Briton\". Céloron threatened \"Old Briton\" with severe consequences if he continued to trade with the British. \"Old Briton\" ignored the warning. Disappointed, Céloron returned to Montreal in November 1749."
+  },
+  {
+    "id": 43,
+    "question": "What is the population of Los Angeles?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "Fresno (/ˈfrɛznoʊ/ FREZ-noh), the county seat of Fresno County, is a city in the U.S. state of California. As of 2015, the city's population was 520,159, making it the fifth-largest city in California, the largest inland city in California and the 34th-largest in the nation. Fresno is in the center of the San Joaquin Valley and is the largest city in the Central Valley, which contains the San Joaquin Valley. It is approximately 220 miles (350 km) northwest of Los Angeles, 170 miles (270 km) south of the state capital, Sacramento, or 185 miles (300 km) south of San Francisco. The name Fresno means \"ash tree\" in Spanish, and an ash leaf is featured on the city's flag."
+  },
+  {
+    "id": 44,
+    "question": "Who wrote the American Times bestselling book titled \"The Closing of the American Mind\"?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "In literature, author of the New York Times bestseller Before I Fall Lauren Oliver, Pulitzer Prize winning novelist Philip Roth, Canadian-born Pulitzer Prize and Nobel Prize for Literature winning writer Saul Bellow, political philosopher, literary critic and author of the New York Times bestseller \"The Closing of the American Mind\" Allan Bloom, ''The Good War\" author Studs Terkel, American writer, essayist, filmmaker, teacher, and political activist Susan Sontag, analytic philosopher and Stanford University Professor of Comparative Literature Richard Rorty, and American writer and satirist Kurt Vonnegut are notable alumni."
+  },
+  {
+    "id": 45,
+    "question": "The idea that Islam can be apolitical isn't able to be embraced by whom?",
+    "gold_answer": "its supporters",
+    "evidence": "Islamism is a controversial concept not just because it posits a political role for Islam but also because its supporters believe their views merely reflect Islam, while the contrary idea that Islam is, or can be, apolitical is an error. Scholars and observers who do not believe that Islam is merely a political ideology include Fred Halliday, John Esposito and Muslim intellectuals like Javed Ahmad Ghamidi. Hayri Abaza argues the failure to distinguish between Islam and Islamism leads many in the West to support illiberal Islamic regimes, to the detriment of progressive moderates who seek to separate religion from politics."
+  },
+  {
+    "id": 46,
+    "question": "What century did the Germanic vocalism Rin come from?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "The variant forms of the name of the Rhine in modern languages are all derived from the Gaulish name Rēnos, which was adapted in Roman-era geography (1st century BC) as Greek Ῥῆνος (Rhēnos), Latin Rhenus.[note 3] The spelling with Rh- in English Rhine as well as in German Rhein and French Rhin is due to the influence of Greek orthography, while the vocalisation -i- is due to the Proto-Germanic adoption of the Gaulish name as *Rīnaz, via Old Frankish giving Old English Rín, Old High German Rīn, Dutch Rijn (formerly also spelled Rhijn)). The diphthong in modern German Rhein (also adopted in Romansh Rein, Rain) is a Central German development of the early modern period, the Alemannic name Rī(n) retaining the older vocalism,[note 4] as does Ripuarian Rhing, while Palatine has diphthongized Rhe..."
+  },
+  {
+    "id": 47,
+    "question": "What happens before the foundation is dug and when a final inspection is passed?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "Before the foundation can be dug, contractors are typically required to verify and have existing utility lines marked, either by the utilities themselves or through a company specializing in such services. This lessens the likelihood of damage to the existing electrical, water, sewage, phone, and cable facilities, which could cause outages and potentially hazardous situations. During the construction of a building, the municipal building inspector inspects the building periodically to ensure that the construction adheres to the approved plans and the local building code. Once construction is complete and a final inspection has been passed, an occupancy permit may be issued."
+  },
+  {
+    "id": 48,
+    "question": "What region does use the term 'private schools' to refer to universities?",
+    "gold_answer": "North America",
+    "evidence": "In the United Kingdom and several other Commonwealth countries including Australia and Canada, the use of the term is generally restricted to primary and secondary educational levels; it is almost never used of universities and other tertiary institutions. Private education in North America covers the whole gamut of educational activity, ranging from pre-school to tertiary level institutions. Annual tuition fees at K-12 schools range from nothing at so called 'tuition-free' schools to more than $45,000 at several New England preparatory schools."
+  },
+  {
+    "id": 49,
+    "question": "Where did France focus its efforts to rebuild its empire?",
+    "gold_answer": "Africa",
+    "evidence": "France took control of Algeria in 1830 but began in earnest to rebuild its worldwide empire after 1850, concentrating chiefly in North and West Africa, as well as South-East Asia, with other conquests in Central and East Africa, as well as the South Pacific. Republicans, at first hostile to empire, only became supportive when Germany started to build her own colonial empire. As it developed, the new empire took on roles of trade with France, supplying raw materials and purchasing manufactured items, as well as lending prestige to the motherland and spreading French civilization and language as well as Catholicism. It also provided crucial manpower in both World Wars."
+  },
+  {
+    "id": 50,
+    "question": "Health problems were lower in places with higher levels of what?",
+    "gold_answer": "equality",
+    "evidence": "British researchers Richard G. Wilkinson and Kate Pickett have found higher rates of health and social problems (obesity, mental illness, homicides, teenage births, incarceration, child conflict, drug use), and lower rates of social goods (life expectancy by country, educational performance, trust among strangers, women's status, social mobility, even numbers of patents issued) in countries and states with higher inequality. Using statistics from 23 developed countries and the 50 states of the US, they found social/health problems lower in countries like Japan and Finland and states like Utah and New Hampshire with high levels of equality, than in countries (US and UK) and states (Mississippi and New York) with large differences in household income."
+  },
+  {
+    "id": 51,
+    "question": "What would be needed to host a larger population?",
+    "gold_answer": "agriculture",
+    "evidence": "For a long time, it was thought that the Amazon rainforest was only ever sparsely populated, as it was impossible to sustain a large population through agriculture given the poor soil. Archeologist Betty Meggers was a prominent proponent of this idea, as described in her book Amazonia: Man and Culture in a Counterfeit Paradise. She claimed that a population density of 0.2 inhabitants per square kilometre (0.52/sq mi) is the maximum that can be sustained in the rainforest through hunting, with agriculture needed to host a larger population. However, recent anthropological findings have suggested that the region was actually densely populated."
+  },
+  {
+    "id": 52,
+    "question": "What types of employees does and interior design firm usually have?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "The modern trend in design is toward integration of previously separated specialties, especially among large firms. In the past, architects, interior designers, engineers, developers, construction managers, and general contractors were more likely to be entirely separate companies, even in the larger firms. Presently, a firm that is nominally an \"architecture\" or \"construction management\" firm may have experts from all related fields as employees, or to have an associated company that provides each necessary skill. Thus, each such firm may offer itself as \"one-stop shopping\" for a construction project, from beginning to end."
+  },
+  {
+    "id": 53,
+    "question": "What was William Johnson's Sioux name?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "The Iroquois sent runners to the manor of William Johnson in upstate New York. The British Superintendent for Indian Affairs in the New York region and beyond, Johnson was known to the Iroquois as Warraghiggey, meaning \"He who does great things.\" He spoke their languages and had become a respected honorary member of the Iroquois Confederacy in the area. In 1746, Johnson was made a colonel of the Iroquois. Later he was commissioned as a colonel of the Western New York Militia. They met at Albany, New York with Governor Clinton and officials from some of the other American colonies. Mohawk Chief Hendrick, Speaker of their tribal council, insisted that the British abide by their obligations and block French expansion."
+  },
+  {
+    "id": 54,
+    "question": "Colonialism often means a country doing what?",
+    "gold_answer": "taking physical control of another",
+    "evidence": "Imperialism and colonialism both dictate the political and economic advantage over a land and the indigenous populations they control, yet scholars sometimes find it difficult to illustrate the difference between the two. Although imperialism and colonialism focus on the suppression of an other, if colonialism refers to the process of a country taking physical control of another, imperialism refers to the political and monetary dominance, either formally or informally. Colonialism is seen to be the architect deciding how to start dominating areas and then imperialism can be seen as creating the idea behind conquest cooperating with colonialism."
+  },
+  {
+    "id": 55,
+    "question": "A small fraction of the cold water flow from Lake Constance goes to what other lake?",
+    "gold_answer": "Lake Überlingen",
+    "evidence": "The flow of cold, gray mountain water continues for some distance into the lake. The cold water flows near the surface and at first doesn't mix with the warmer, green waters of Upper Lake. But then, at the so-called Rheinbrech, the Rhine water abruptly falls into the depths because of the greater density of cold water. The flow reappears on the surface at the northern (German) shore of the lake, off the island of Lindau. The water then follows the northern shore until Hagnau am Bodensee. A small fraction of the flow is diverted off the island of Mainau into Lake Überlingen. Most of the water flows via the Constance hopper into the Rheinrinne (\"Rhine Gutter\") and Seerhein. Depending on the water level, this flow of the Rhine water is clearly visible along the entire length of the lake."
+  },
+  {
+    "id": 56,
+    "question": "What city served as Poland's capital in 1313?",
+    "gold_answer": "Kraków",
+    "evidence": "The first historical reference to Warsaw dates back to the year 1313, at a time when Kraków served as the Polish capital city. Due to its central location between the Polish–Lithuanian Commonwealth's capitals of Kraków and Vilnius, Warsaw became the capital of the Commonwealth and of the Crown of the Kingdom of Poland when King Sigismund III Vasa moved his court from Kraków to Warsaw in 1596. After the Third Partition of Poland in 1795, Warsaw was incorporated into the Kingdom of Prussia. In 1806 during the Napoleonic Wars, the city became the official capital of the Grand Duchy of Warsaw, a puppet state of the First French Empire established by Napoleon Bonaparte."
+  },
+  {
+    "id": 57,
+    "question": " After 1945, what challenged the British empire?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "In World War II, Charles de Gaulle and the Free French used the overseas colonies as bases from which they fought to liberate France. However after 1945 anti-colonial movements began to challenge the Empire. France fought and lost a bitter war in Vietnam in the 1950s. Whereas they won the war in Algeria, the French leader at the time, Charles de Gaulle, decided to grant Algeria independence anyway in 1962. Its settlers and many local supporters relocated to France. Nearly all of France's colonies gained independence by 1960, but France retained great financial and diplomatic influence. It has repeatedly sent troops to assist its former colonies in Africa in suppressing insurrections and coups d’état."
+  },
+  {
+    "id": 58,
+    "question": "By what process is singlet oxygen made in the tropophere?",
+    "gold_answer": "photolysis of ozone",
+    "evidence": "Singlet oxygen is a name given to several higher-energy species of molecular O\n2 in which all the electron spins are paired. It is much more reactive towards common organic molecules than is molecular oxygen per se. In nature, singlet oxygen is commonly formed from water during photosynthesis, using the energy of sunlight. It is also produced in the troposphere by the photolysis of ozone by light of short wavelength, and by the immune system as a source of active oxygen. Carotenoids in photosynthetic organisms (and possibly also in animals) play a major role in absorbing energy from singlet oxygen and converting it to the unexcited ground state before it can cause harm to tissues."
+  },
+  {
+    "id": 59,
+    "question": " What was made valid in the late 19th and 20th centuries?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "Europe's expansion into territorial imperialism was largely focused on economic growth by collecting resources from colonies, in combination with assuming political control by military and political means. The colonization of India in the mid-18th century offers an example of this focus: there, the \"British exploited the political weakness of the Mughal state, and, while military activity was important at various times, the economic and administrative incorporation of local elites was also of crucial significance\" for the establishment of control over the subcontinent's resources, markets, and manpower."
+  },
+  {
+    "id": 60,
+    "question": "Where are the Harvard medical, Dental and school of Public Health located?",
+    "gold_answer": "Longwood Medical and Academic Area",
+    "evidence": "The Harvard Business School and many of the university's athletics facilities, including Harvard Stadium, are located on a 358-acre (145 ha) campus opposite the Cambridge campus in Allston. The John W. Weeks Bridge is a pedestrian bridge over the Charles River connecting both campuses. The Harvard Medical School, Harvard School of Dental Medicine, and the Harvard School of Public Health are located on a 21-acre (8.5 ha) campus in the Longwood Medical and Academic Area approximately 3.3 miles (5.3 km) southwest of downtown Boston and 3.3 miles (5.3 km) south of the Cambridge campus."
+  },
+  {
+    "id": 61,
+    "question": "When did Warsaw become the capital of the Kingdom of Prussia?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "The first historical reference to Warsaw dates back to the year 1313, at a time when Kraków served as the Polish capital city. Due to its central location between the Polish–Lithuanian Commonwealth's capitals of Kraków and Vilnius, Warsaw became the capital of the Commonwealth and of the Crown of the Kingdom of Poland when King Sigismund III Vasa moved his court from Kraków to Warsaw in 1596. After the Third Partition of Poland in 1795, Warsaw was incorporated into the Kingdom of Prussia. In 1806 during the Napoleonic Wars, the city became the official capital of the Grand Duchy of Warsaw, a puppet state of the First French Empire established by Napoleon Bonaparte."
+  },
+  {
+    "id": 62,
+    "question": "What Swiss city was the center of the Calvinist movement?",
+    "gold_answer": "Geneva",
+    "evidence": "A term used originally in derision, Huguenot has unclear origins. Various hypotheses have been promoted. The nickname may have been a combined reference to the Swiss politician Besançon Hugues (died 1532) and the religiously conflicted nature of Swiss republicanism in his time, using a clever derogatory pun on the name Hugues by way of the Dutch word Huisgenoten (literally housemates), referring to the connotations of a somewhat related word in German Eidgenosse (Confederates as in \"a citizen of one of the states of the Swiss Confederacy\"). Geneva was John Calvin's adopted home and the centre of the Calvinist movement."
+  },
+  {
+    "id": 63,
+    "question": "What percentage of American gas stations were out of fuel in 1973?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "In 1973, Nixon named William E. Simon as the first Administrator of the Federal Energy Office, a short-term organization created to coordinate the response to the embargo. Simon allocated states the same amount of domestic oil for 1974 that each had consumed in 1972, which worked for states whose populations were not increasing. In other states, lines at gasoline stations were common. The American Automobile Association reported that in the last week of February 1974, 20% of American gasoline stations had no fuel."
+  },
+  {
+    "id": 64,
+    "question": "What have the two different Islamist movements been described as oscillating between?",
+    "gold_answer": "poles",
+    "evidence": "Islamism, also known as Political Islam (Arabic: إسلام سياسي‎ islām siyāsī), is an Islamic revival movement often characterized by moral conservatism, literalism, and the attempt \"to implement Islamic values in all spheres of life.\" Islamism favors the reordering of government and society in accordance with the Shari'a. The different Islamist movements have been described as \"oscillating between two poles\": at one end is a strategy of Islamization of society through state power seized by revolution or invasion; at the other \"reformist\" pole Islamists work to Islamize society gradually \"from the bottom up\"."
+  },
+  {
+    "id": 65,
+    "question": "What is the problem attributed to defining if two finite graphs are isomorphic?",
+    "gold_answer": "The graph isomorphism problem",
+    "evidence": "The graph isomorphism problem is the computational problem of determining whether two finite graphs are isomorphic. An important unsolved problem in complexity theory is whether the graph isomorphism problem is in P, NP-complete, or NP-intermediate. The answer is not known, but it is believed that the problem is at least not NP-complete. If graph isomorphism is NP-complete, the polynomial time hierarchy collapses to its second level. Since it is widely believed that the polynomial hierarchy does not collapse to any finite level, it is believed that graph isomorphism is not NP-complete. The best algorithm for this problem, due to Laszlo Babai and Eugene Luks has run time 2O(√(n log(n))) for graphs with n vertices."
+  },
+  {
+    "id": 66,
+    "question": "Of what group in the periodic table is oxygen a member?",
+    "gold_answer": "chalcogen",
+    "evidence": "Oxygen is a chemical element with symbol O and atomic number 8. It is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds (notably oxides) with most elements. By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium. At standard temperature and pressure, two atoms of the element bind to form dioxygen, a colorless and odorless diatomic gas with the formula O\n2. Diatomic oxygen gas constitutes 20.8% of the Earth's atmosphere. However, monitoring of atmospheric oxygen levels show a global downward trend, because of fossil-fuel burning."
+  },
+  {
+    "id": 67,
+    "question": "When are subject committees established?",
+    "gold_answer": "beginning of each parliamentary session",
+    "evidence": "Subject Committees are established at the beginning of each parliamentary session, and again the members on each committee reflect the balance of parties across Parliament. Typically each committee corresponds with one (or more) of the departments (or ministries) of the Scottish Government. The current Subject Committees in the fourth Session are: Economy, Energy and Tourism; Education and Culture; Health and Sport; Justice; Local Government and Regeneration; Rural Affairs, Climate Change and Environment; Welfare Reform; and Infrastructure and Capital Investment."
+  },
+  {
+    "id": 68,
+    "question": "Where is the Asian gold miners strongest in Victoria?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "Immigrants arrived from all over the world to search for gold, especially from Ireland and China. Many Chinese miners worked in Victoria, and their legacy is particularly strong in Bendigo and its environs. Although there was some racism directed at them, there was not the level of anti-Chinese violence that was seen at the Lambing Flat riots in New South Wales. However, there was a riot at Buckland Valley near Bright in 1857. Conditions on the gold fields were cramped and unsanitary; an outbreak of typhoid at Buckland Valley in 1854 killed over 1,000 miners."
+  },
+  {
+    "id": 69,
+    "question": "What animals does the Czerniakow river's ecosystem include?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "There are 13 natural reserves in Warsaw – among others, Bielany Forest, Kabaty Woods, Czerniaków Lake. About 15 kilometres (9 miles) from Warsaw, the Vistula river's environment changes strikingly and features a perfectly preserved ecosystem, with a habitat of animals that includes the otter, beaver and hundreds of bird species. There are also several lakes in Warsaw – mainly the oxbow lakes, like Czerniaków Lake, the lakes in the Łazienki or Wilanów Parks, Kamionek Lake. There are lot of small lakes in the parks, but only a few are permanent – the majority are emptied before winter to clean them of plants and sediments."
+  },
+  {
+    "id": 70,
+    "question": "deforestation increased in Brazil during what years?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "The needs of soy farmers have been used to justify many of the controversial transportation projects that are currently developing in the Amazon. The first two highways successfully opened up the rainforest and led to increased settlement and deforestation. The mean annual deforestation rate from 2000 to 2005 (22,392 km2 or 8,646 sq mi per year) was 18% higher than in the previous five years (19,018 km2 or 7,343 sq mi per year). Although deforestation has declined significantly in the Brazilian Amazon between 2004 and 2014, there has been an increase to the present day."
+  },
+  {
+    "id": 71,
+    "question": "What was believed to be the cause of devastation to the civilization?",
+    "gold_answer": "diseases from Europe",
+    "evidence": "The first European to travel the length of the Amazon River was Francisco de Orellana in 1542. The BBC's Unnatural Histories presents evidence that Orellana, rather than exaggerating his claims as previously thought, was correct in his observations that a complex civilization was flourishing along the Amazon in the 1540s. It is believed that the civilization was later devastated by the spread of diseases from Europe, such as smallpox. Since the 1970s, numerous geoglyphs have been discovered on deforested land dating between AD 0–1250, furthering claims about Pre-Columbian civilizations. Ondemar Dias is accredited with first discovering the geoglyphs in 1977 and Alceu Ranzi with furthering their discovery after flying over Acre."
+  },
+  {
+    "id": 72,
+    "question": "Which reason is given sometimes to plead not guilty involving these matters?",
+    "gold_answer": "Guilt implies wrong-doing",
+    "evidence": "An important decision for civil disobedients is whether or not to plead guilty. There is much debate on this point, as some believe that it is a civil disobedient's duty to submit to the punishment prescribed by law, while others believe that defending oneself in court will increase the possibility of changing the unjust law. It has also been argued that either choice is compatible with the spirit of civil disobedience. ACT-UP's Civil Disobedience Training handbook states that a civil disobedient who pleads guilty is essentially stating, \"Yes, I committed the act of which you accuse me. I don't deny it; in fact, I am proud of it."
+  },
+  {
+    "id": 73,
+    "question": "What certificates must private schools worldwide work towards?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "In Ireland, private schools (Irish: scoil phríobháideach) are unusual because a certain number of teacher's salaries are paid by the State. If the school wishes to employ extra teachers they are paid for with school fees, which tend to be relatively low in Ireland compared to the rest of the world. There is, however, a limited element of state assessment of private schools, because of the requirement that the state ensure that children receive a certain minimum education; Irish private schools must still work towards the Junior Certificate and the Leaving Certificate, for example. Many private schools in Ireland also double as boarding schools."
+  },
+  {
+    "id": 74,
+    "question": "What is the Victoria state bird?",
+    "gold_answer": "helmeted honeyeater",
+    "evidence": "Victoria contains many topographically, geologically and climatically diverse areas, ranging from the wet, temperate climate of Gippsland in the southeast to the snow-covered Victorian alpine areas which rise to almost 2,000 m (6,600 ft), with Mount Bogong the highest peak at 1,986 m (6,516 ft). There are extensive semi-arid plains to the west and northwest. There is an extensive series of river systems in Victoria. Most notable is the Murray River system. Other rivers include: Ovens River, Goulburn River, Patterson River, King River, Campaspe River, Loddon River, Wimmera River, Elgin River, Barwon River, Thomson River, Snowy River, Latrobe River, Yarra River, Maribyrnong River, Mitta River, Hopkins River, Merri River and Kiewa River."
+  },
+  {
+    "id": 75,
+    "question": "Theories on imperialism don't use which country as a model?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "In anglophone academic works, theories regarding imperialism are often based on the British experience. The term \"Imperialism\" was originally introduced into English in its present sense in the late 1870s by opponents of the allegedly aggressive and ostentatious imperial policies of British prime Minister Benjamin Disraeli. It was shortly appropriated by supporters of \"imperialism\" such as Joseph Chamberlain. For some, imperialism designated a policy of idealism and philanthropy; others alleged that it was characterized by political self-interest, and a growing number associated it with capitalist greed. Liberal John A. Hobson and Marxist Vladimir Lenin added a more theoretical macroeconomic connotation to the term."
+  },
+  {
+    "id": 76,
+    "question": "What is the Upati Garden in Polish?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "Nearby, in Ogród Saski (the Saxon Garden), the Summer Theatre was in operation from 1870 to 1939, and in the inter-war period, the theatre complex also included Momus, Warsaw's first literary cabaret, and Leon Schiller's musical theatre Melodram. The Wojciech Bogusławski Theatre (1922–26), was the best example of \"Polish monumental theatre\". From the mid-1930s, the Great Theatre building housed the Upati Institute of Dramatic Arts – the first state-run academy of dramatic art, with an acting department and a stage directing department."
+  },
+  {
+    "id": 77,
+    "question": "How many seats does Australia have in the House of Representatives?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "Politically, Victoria has 37 seats in the Australian House of Representatives and 12 seats in the Australian Senate. At state level, the Parliament of Victoria consists of the Legislative Assembly (the lower house) and the Legislative Council (the upper house). Victoria is currently governed by the Labor Party, with Daniel Andrews the current Premier. The personal representative of the Queen of Australia in the state is the Governor of Victoria, currently Linda Dessau. Local government is concentrated in 79 municipal districts, including 33 cities, although a number of unincorporated areas still exist, which are administered directly by the state."
+  },
+  {
+    "id": 78,
+    "question": "What type of schools would they have in China as a compromise after Chinese independence?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "After Malaysia's independence in 1957, the government instructed all schools to surrender their properties and be assimilated into the National School system. This caused an uproar among the Chinese and a compromise was achieved in that the schools would instead become \"National Type\" schools. Under such a system, the government is only in charge of the school curriculum and teaching personnel while the lands still belonged to the schools. While Chinese primary schools were allowed to retain Chinese as the medium of instruction, Chinese secondary schools are required to change into English-medium schools. Over 60 schools converted to become National Type schools."
+  },
+  {
+    "id": 79,
+    "question": "What did Tymnet connect ",
+    "gold_answer": "connect host computers (servers)at thousands of large companies, educational institutions, and government agencies",
+    "evidence": "Tymnet was an international data communications network headquartered in San Jose, CA that utilized virtual call packet switched technology and used X.25, SNA/SDLC, BSC and ASCII interfaces to connect host computers (servers)at thousands of large companies, educational institutions, and government agencies. Users typically connected via dial-up connections or dedicated async connections. The business consisted of a large public network that supported dial-up users and a private network business that allowed government agencies and large companies (mostly banks and airlines) to build their own dedicated networks. The private networks were often connected via gateways to the public network to reach locations not on the private network."
+  },
+  {
+    "id": 80,
+    "question": "What does ctenophora rely on for digestion and respiration?",
+    "gold_answer": "water flow through the body cavity",
+    "evidence": "Ctenophora (/tᵻˈnɒfərə/; singular ctenophore, /ˈtɛnəfɔːr/ or /ˈtiːnəfɔːr/; from the Greek κτείς kteis 'comb' and φέρω pherō 'carry'; commonly known as comb jellies) is a phylum of animals that live in marine waters worldwide. Their most distinctive feature is the ‘combs’ – groups of cilia which they use for swimming – they are the largest animals that swim by means of cilia. Adults of various species range from a few millimeters to 1.5 m (4 ft 11 in) in size. Like cnidarians, their bodies consist of a mass of jelly, with one layer of cells on the outside and another lining the internal cavity. In ctenophores, these layers are two cells deep, while those in cnidarians are only one cell deep."
+  },
+  {
+    "id": 81,
+    "question": "At first, what did oxygen and iron combine to form?",
+    "gold_answer": "banded iron formations",
+    "evidence": "Free oxygen gas was almost nonexistent in Earth's atmosphere before photosynthetic archaea and bacteria evolved, probably about 3.5 billion years ago. Free oxygen first appeared in significant quantities during the Paleoproterozoic eon (between 3.0 and 2.3 billion years ago). For the first billion years, any free oxygen produced by these organisms combined with dissolved iron in the oceans to form banded iron formations. When such oxygen sinks became saturated, free oxygen began to outgas from the oceans 3–2.7 billion years ago, reaching 10% of its present level around 1.7 billion years ago."
+  },
+  {
+    "id": 82,
+    "question": "What molecules of the adaptive immune system only exist in jawed vertebrates?",
+    "gold_answer": "immunoglobulins and T cell receptors",
+    "evidence": "Evolution of the adaptive immune system occurred in an ancestor of the jawed vertebrates. Many of the classical molecules of the adaptive immune system (e.g., immunoglobulins and T cell receptors) exist only in jawed vertebrates. However, a distinct lymphocyte-derived molecule has been discovered in primitive jawless vertebrates, such as the lamprey and hagfish. These animals possess a large array of molecules called Variable lymphocyte receptors (VLRs) that, like the antigen receptors of jawed vertebrates, are produced from only a small number (one or two) of genes. These molecules are believed to bind pathogenic antigens in a similar way to antibodies, and with the same degree of specificity."
+  },
+  {
+    "id": 83,
+    "question": "Who was the leader of the Islamist regime in Sudan?",
+    "gold_answer": "Hassan al-Turabi",
+    "evidence": "For many years, Sudan had an Islamist regime under the leadership of Hassan al-Turabi. His National Islamic Front first gained influence when strongman General Gaafar al-Nimeiry invited members to serve in his government in 1979. Turabi built a powerful economic base with money from foreign Islamist banking systems, especially those linked with Saudi Arabia. He also recruited and built a cadre of influential loyalists by placing sympathetic students in the university and military academy while serving as minister of education."
+  },
+  {
+    "id": 84,
+    "question": "What French General negotiated at Montreal?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "In September 1760, and before any hostilities erupted, Governor Vaudreuil negotiated from Montreal a capitulation with General Amherst. Amherst granted Vaudreuil's request that any French residents who chose to remain in the colony would be given freedom to continue worshiping in their Roman Catholic tradition, continued ownership of their property, and the right to remain undisturbed in their homes. The British provided medical treatment for the sick and wounded French soldiers and French regular troops were returned to France aboard British ships with an agreement that they were not to serve again in the present war."
+  },
+  {
+    "id": 85,
+    "question": "Which tribes did Genghis Khan unite?",
+    "gold_answer": "Mongol and Turkic tribes",
+    "evidence": "Genghis Khan united the Mongol and Turkic tribes of the steppes and became Great Khan in 1206. He and his successors expanded the Mongol empire across Asia. Under the reign of Genghis' third son, Ögedei Khan, the Mongols destroyed the weakened Jin dynasty in 1234, conquering most of northern China. Ögedei offered his nephew Kublai a position in Xingzhou, Hebei. Kublai was unable to read Chinese but had several Han Chinese teachers attached to him since his early years by his mother Sorghaghtani. He sought the counsel of Chinese Buddhist and Confucian advisers. Möngke Khan succeeded Ögedei's son, Güyük, as Great Khan in 1251. He granted his brother Kublai control over Mongol held territories in China."
+  },
+  {
+    "id": 86,
+    "question": "What did Alec Shelbrooke propose payments of benefits never be made on?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "The Daily Mail newspaper reported in 2012 that the UK government's benefits agency was checking claimants' \"Sky TV bills to establish if a woman in receipt of benefits as a single mother is wrongly claiming to be living alone\" – as, it claimed, subscription to sports channels would betray a man's presence in the household. In December, the UK’s parliament heard a claim that a subscription to BSkyB was ‘often damaging’, along with alcohol, tobacco and gambling. Conservative MP Alec Shelbrooke was proposing the payments of benefits and tax credits on a \"Welfare Cash Card\", in the style of the Supplemental Nutrition Assistance Program, that could be used to buy only \"essentials\"."
+  },
+  {
+    "id": 87,
+    "question": "What was abnormal British defense?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "At the start of the war, no French regular army troops were stationed in North America, and few British troops. New France was defended by about 3,000 troupes de la marine, companies of colonial regulars (some of whom had significant woodland combat experience). The colonial government recruited militia support when needed. Most British colonies mustered local militia companies, generally ill trained and available only for short periods, to deal with native threats, but did not have any standing forces."
+  },
+  {
+    "id": 88,
+    "question": "How many days does the high not reach 90 in December?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "Fresno is marked by a semi-arid climate (Köppen BSh), with mild, moist winters and hot and dry summers, thus displaying Mediterranean characteristics. December and January are the coldest months, and average around 46.5 °F (8.1 °C), and there are 14 nights with freezing lows annually, with the coldest night of the year typically bottoming out below 30 °F (−1.1 °C). July is the warmest month, averaging 83.0 °F (28.3 °C); normally, there are 32 days of 100 °F (37.8 °C)+ highs and 106 days of 90 °F (32.2 °C)+ highs, and in July and August, there are only three or four days where the high does not reach 90 °F (32.2 °C)."
+  },
+  {
+    "id": 89,
+    "question": "What did DECnet Phase I become?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "DECnet is a suite of network protocols created by Digital Equipment Corporation, originally released in 1975 in order to connect two PDP-11 minicomputers. It evolved into one of the first peer-to-peer network architectures, thus transforming DEC into a networking powerhouse in the 1980s. Initially built with three layers, it later (1982) evolved into a seven-layer OSI-compliant networking protocol. The DECnet protocols were designed entirely by Digital Equipment Corporation. However, DECnet Phase II (and later) were open standards with published specifications, and several implementations were developed outside DEC, including one for Linux."
+  },
+  {
+    "id": 90,
+    "question": "What was considered to be a major milestone?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "The Computer Science Network (CSNET) was a computer network funded by the U.S. National Science Foundation (NSF) that began operation in 1981. Its purpose was to extend networking benefits, for computer science departments at academic and research institutions that could not be directly connected to ARPANET, due to funding or authorization limitations. It played a significant role in spreading awareness of, and access to, national networking and was a major milestone on the path to development of the global Internet."
+  },
+  {
+    "id": 91,
+    "question": "According to the wealth concentration theory, what advantage do the wealthy have in accumulating new wealth?",
+    "gold_answer": "means to invest",
+    "evidence": "Wealth concentration is a theoretical[according to whom?] process by which, under certain conditions, newly created wealth concentrates in the possession of already-wealthy individuals or entities. According to this theory, those who already hold wealth have the means to invest in new sources of creating wealth or to otherwise leverage the accumulation of wealth, thus are the beneficiaries of the new wealth. Over time, wealth condensation can significantly contribute to the persistence of inequality within society. Thomas Piketty in his book Capital in the Twenty-First Century argues that the fundamental force for divergence is the usually greater return of capital (r) than economic growth (g), and that larger fortunes generate higher returns [pp. 384 Table 12.2, U.S."
+  },
+  {
+    "id": 92,
+    "question": "What did a greedy merchant do to the mermaid?",
+    "gold_answer": "captured",
+    "evidence": "The origin of the legendary figure is not fully known. The best-known legend, by Artur Oppman, is that long ago two of Triton's daughters set out on a journey through the depths of the oceans and seas. One of them decided to stay on the coast of Denmark and can be seen sitting at the entrance to the port of Copenhagen. The second mermaid reached the mouth of the Vistula River and plunged into its waters. She stopped to rest on a sandy beach by the village of Warszowa, where fishermen came to admire her beauty and listen to her beautiful voice. A greedy merchant also heard her songs; he followed the fishermen and captured the mermaid."
+  },
+  {
+    "id": 93,
+    "question": "What was the objective of Royal Proclamation of 1763?",
+    "gold_answer": "outlined the division and administration of the newly conquered territory",
+    "evidence": "Following the treaty, King George III issued the Royal Proclamation of 1763 on October 7, 1763, which outlined the division and administration of the newly conquered territory, and to some extent continues to govern relations between the government of modern Canada and the First Nations. Included in its provisions was the reservation of lands west of the Appalachian Mountains to its Indian population, a demarcation that was at best a temporary impediment to a rising tide of westward-bound settlers. The proclamation also contained provisions that prevented civic participation by the Roman Catholic Canadians."
+  },
+  {
+    "id": 94,
+    "question": "What is a twin prime?",
+    "gold_answer": "pairs of primes with difference 2",
+    "evidence": "A third type of conjectures concerns aspects of the distribution of primes. It is conjectured that there are infinitely many twin primes, pairs of primes with difference 2 (twin prime conjecture). Polignac's conjecture is a strengthening of that conjecture, it states that for every positive integer n, there are infinitely many pairs of consecutive primes that differ by 2n. It is conjectured there are infinitely many primes of the form n2 + 1. These conjectures are special cases of the broad Schinzel's hypothesis H. Brocard's conjecture says that there are always at least four primes between the squares of consecutive primes greater than 2. Legendre's conjecture states that there is a prime number between n2 and (n + 1)2 for every positive integer n."
+  },
+  {
+    "id": 95,
+    "question": "What group of people performed revolutionary civil disobedience toward the Austrian government?",
+    "gold_answer": "Hungarians",
+    "evidence": "Non-revolutionary civil disobedience is a simple disobedience of laws on the grounds that they are judged \"wrong\" by an individual conscience, or as part of an effort to render certain laws ineffective, to cause their repeal, or to exert pressure to get one's political wishes on some other issue. Revolutionary civil disobedience is more of an active attempt to overthrow a government (or to change cultural traditions, social customs, religious beliefs, etc...revolution doesn't have to be political, i.e. \"cultural revolution\", it simply implies sweeping and widespread change to a section of the social fabric). Gandhi's acts have been described as revolutionary civil disobedience."
+  },
+  {
+    "id": 96,
+    "question": "What happens when bathocyroe and ocyropsis clap their lobes together?",
+    "gold_answer": "jet of expelled water drives them backwards very quickly.",
+    "evidence": "Lobates have eight comb-rows, originating at the aboral pole and usually not extending beyond the body to the lobes; in species with (four) auricles, the cilia edging the auricles are extensions of cilia in four of the comb rows. Most lobates are quite passive when moving through the water, using the cilia on their comb rows for propulsion, although Leucothea has long and active auricles whose movements also contribute to propulsion. Members of the lobate genera Bathocyroe and Ocyropsis can escape from danger by clapping their lobes, so that the jet of expelled water drives them backwards very quickly."
+  },
+  {
+    "id": 97,
+    "question": "The Maroons compete in what league division?",
+    "gold_answer": "NCAA's Division III",
+    "evidence": "The Maroons compete in the NCAA's Division III as members of the University Athletic Association (UAA). The university was a founding member of the Big Ten Conference and participated in the NCAA Division I Men's Basketball and Football and was a regular participant in the Men's Basketball tournament. In 1935, the University of Chicago reached the Sweet Sixteen. In 1935, Chicago Maroons football player Jay Berwanger became the first winner of the Heisman Trophy. However, the university chose to withdraw from the conference in 1946 after University President Robert Maynard Hutchins de-emphasized varsity athletics in 1939 and dropped football. (In 1969, Chicago reinstated football as a Division III team, resuming playing its home games at the new Stagg Field.)"
+  },
+  {
+    "id": 98,
+    "question": "Which Spanish officer established the settlement at St. Augustine?",
+    "gold_answer": "Pedro Menéndez de Avilés",
+    "evidence": "French Huguenots made two attempts to establish a haven in North America. In 1562, naval officer Jean Ribault led an expedition that explored Florida and the present-day Southeastern U.S., and founded the outpost of Charlesfort on Parris Island, South Carolina. The Wars of Religion precluded a return voyage, and the outpost was abandoned. In 1564, Ribault's former lieutenant René Goulaine de Laudonnière launched a second voyage to build a colony; he established Fort Caroline in what is now Jacksonville, Florida. War at home again precluded a resupply mission, and the colony struggled. In 1565 the Spanish decided to enforce their claim to La Florida, and sent Pedro Menéndez de Avilés, who established the settlement of St. Augustine near Fort Caroline."
+  },
+  {
+    "id": 99,
+    "question": "What is the mesoglea situated along the underside of?",
+    "gold_answer": "UNANSWERABLE",
+    "evidence": "The internal cavity forms: a mouth that can usually be closed by muscles; a pharynx (\"throat\"); a wider area in the center that acts as a stomach; and a system of internal canals. These branch through the mesoglea to the most active parts of the animal: the mouth and pharynx; the roots of the tentacles, if present; all along the underside of each comb row; and four branches round the sensory complex at the far end from the mouth – two of these four branches terminate in anal pores. The inner surface of the cavity is lined with an epithelium, the gastrodermis. The mouth and pharynx have both cilia and well-developed muscles. In other parts of the canal system, the gastrodermis is different on the sides nearest to and furthest from the organ that it supplies."
+  },
+  {
+    "id": 100,
+    "question": "What was the name of the first Huguenot outpost in South Carolina?",
+    "gold_answer": "Charlesfort",
+    "evidence": "French Huguenots made two attempts to establish a haven in North America. In 1562, naval officer Jean Ribault led an expedition that explored Florida and the present-day Southeastern U.S., and founded the outpost of Charlesfort on Parris Island, South Carolina. The Wars of Religion precluded a return voyage, and the outpost was abandoned. In 1564, Ribault's former lieutenant René Goulaine de Laudonnière launched a second voyage to build a colony; he established Fort Caroline in what is now Jacksonville, Florida. War at home again precluded a resupply mission, and the colony struggled. In 1565 the Spanish decided to enforce their claim to La Florida, and sent Pedro Menéndez de Avilés, who established the settlement of St. Augustine near Fort Caroline."
+  }
+]
